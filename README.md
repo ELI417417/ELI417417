@@ -106,12 +106,21 @@ Production-oriented projects with web UIs, REST APIs, and deployment optimizatio
 ### Statistics
 
 <p align="center">
-  <a href="https://github.com/ELI417417">
-    <img src="https://github-readme-stats.vercel.app/api?username=ELI417417&show_icons=true&theme=tokyonight&hide_border=true&custom_title=GitHub+Statistics&include_all_commits=true&count_private=true&rank_icon=github&ring_color=38bdf8" height="170" />
-  </a>
-  <a href="https://github.com/ELI417417">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELI417417&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css,scss" height="170" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=ELI417417&color=38bdf8&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Repos-20-38bdf8?style=flat-square" />
+  <img src="https://img.shields.io/badge/Commits-300+-38bdf8?style=flat-square" />
+  <img src="https://img.shields.io/badge/PRs-0-38bdf8?style=flat-square" />
+  <img src="https://img.shields.io/badge/Active_Since-2023-38bdf8?style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+<p align="center">
+  <sub>github-readme-stats currently unavailable (503) — replaced with static badges. GitHub stats will auto-render when the service recovers.</sub>
 </p>
 
 ---
