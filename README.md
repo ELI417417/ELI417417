@@ -17,7 +17,7 @@
 
 ### About Me
 
-I'm a **machine learning engineer** with a deep focus on computer vision and large language models. I build everything end-to-end: from implementing papers from scratch in PyTorch, to training pipelines with MLOps tooling, to deploying interactive web apps. Every project in this profile is a working implementation with tests — not a tutorial clone.
+I'm a **machine learning engineer** focused on computer vision, large language models, and building ML systems end-to-end. I learn by implementing papers from scratch in PyTorch, running experiments with MLOps tooling, and wrapping models into interactive web demos. Every project here is a learning implementation — I build things to understand them deeply.
 
 <table>
 <tr>
@@ -46,7 +46,7 @@ I'm a **machine learning engineer** with a deep focus on computer vision and lar
 
 ### Research & Paper Reproductions
 
-I believe the best way to understand a model is to **implement it line by line**. These are paper-perfect reproductions with training scripts, tests, and analysis notebooks:
+I believe the best way to understand a model is to **implement it line by line**. These are paper reproductions — implementations for learning, with training scripts, tests, and notes:
 
 | Paper | Venue | My Implementation |
 |-------|-------|-------------------|
@@ -63,7 +63,7 @@ I believe the best way to understand a model is to **implement it line by line**
 
 ### Application Projects
 
-Production-oriented projects with web UIs, REST APIs, and deployment optimization:
+Learning projects with web UIs and REST APIs built for hands-on practice:
 
 | Project | Stack | Highlights |
 |---------|-------|------------|
@@ -155,11 +155,11 @@ Production-oriented projects with web UIs, REST APIs, and deployment optimizatio
 
 <table align="center">
 <tr>
-<td align="center">📝<br><b>From Scratch</b><br>8 paper reproductions<br>implemented line by line</td>
+<td align="center">📝<br><b>From Scratch</b><br>8 paper implementations<br>built line by line</td>
 <td align="center">🧪<br><b>Tested</b><br>70+ test suites<br>all passing green ✓</td>
-<td align="center">🌐<br><b>Deployed</b><br>Streamlit / Flask<br>interactive web apps</td>
+<td align="center">🌐<br><b>Interactive</b><br>Streamlit / Flask<br>web demos</td>
 <td align="center">📖<br><b>Documented</b><br>Clean READMEs<br>with quickstart guides</td>
-<td align="center">🔄<br><b>Reproducible</b><br>MLflow + DVC<br>full experiment tracking</td>
+<td align="center">🔄<br><b>Experiment Tracking</b><br>MLflow + DVC<br>for reproducibility</td>
 </tr>
 </table>
 
