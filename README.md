@@ -71,7 +71,6 @@ Learning projects with web UIs and REST APIs built for hands-on practice:
 | [**YOLO Object Detection**](https://github.com/ELI417417/yolo-object-detection) | `YOLOv8` `ONNX` `Flask` | Web app + REST API + drag-and-drop UI |
 | [**MobileNet-SSD Study**](https://github.com/ELI417417/mobilenet-ssd-deployment) | `MobileNetV2` `ONNX` `PyTorch` | CPU latency benchmarks, INT8 quantization exploration |
 | [**Stable Diffusion Explorer**](https://github.com/ELI417417/stable-diffusion-explorer) | `Diffusers` `Streamlit` `Plotly` | Cross-attention visualization + prompt interpolation |
-| [**ML Pipeline (MLOps)**](https://github.com/ELI417417/ml-pipeline-mlops) | `MLflow` `DVC` `Hydra` `Optuna` | Experiment tracking, data versioning practice |
 
 ---
 
@@ -79,7 +78,6 @@ Learning projects with web UIs and REST APIs built for hands-on practice:
 
 <pre>
 2023 ─┬─ Feb  <a href="https://github.com/ELI417417/portfolio">Portfolio Website</a>          HTML · CSS · JS
-      ├─ Apr  <a href="https://github.com/ELI417417/python-toolkit">Python Toolkit</a>            Python automation
       ├─ Jun  <a href="https://github.com/ELI417417/sql-data-analysis">SQL Data Analysis</a>          SQL · Pandas · Python
       └─ Aug  <a href="https://github.com/ELI417417/ds-algorithms">DS & Algorithms</a>            C/C++ · CMake
 
@@ -93,7 +91,6 @@ Learning projects with web UIs and REST APIs built for hands-on practice:
       └─ Dec  <a href="https://github.com/ELI417417/clip-semantic-search">CLIP Search</a>                FAISS · Streamlit
 
 2025 ─┬─ Jan  <a href="https://github.com/ELI417417/neural-style-transfer">Style Transfer</a>             VGG19 · PyTorch
-      ├─ Feb  <a href="https://github.com/ELI417417/ml-pipeline-mlops">ML Pipeline (MLOps)</a>        MLflow · DVC · Hydra
       ├─ Mar  <a href="https://github.com/ELI417417/resnet-from-scratch">ResNet Reproduction</a>        PyTorch · CIFAR-10
       ├─ Apr  <a href="https://github.com/ELI417417/lora-finetuning">LoRA Fine-tuning</a>           PEFT · Transformers
       ├─ May  <a href="https://github.com/ELI417417/stable-diffusion-explorer">Stable Diffusion</a>           Diffusers · Attention Viz
@@ -156,10 +153,10 @@ Learning projects with web UIs and REST APIs built for hands-on practice:
 <table align="center">
 <tr>
 <td align="center">📝<br><b>From Scratch</b><br>8 paper implementations<br>built line by line</td>
-<td align="center">🧪<br><b>Tested</b><br>65+ test suites<br>all passing green ✓</td>
-<td align="center">🌐<br><b>Interactive</b><br>Streamlit / Flask<br>web demos</td>
+<td align="center">🧪<br><b>Tested</b><br>65+ test cases<br>all passing ✓</td>
+<td align="center">🌐<br><b>Interactive Demos</b><br>Streamlit / Flask<br>web UIs</td>
 <td align="center">📖<br><b>Documented</b><br>Clean READMEs<br>with quickstart guides</td>
-<td align="center">🔄<br><b>Experiment Tracking</b><br>MLflow + DVC<br>for reproducibility</td>
+<td align="center">🔄<br><b>Paper Implementations</b><br>8 papers built<br>line by line</td>
 </tr>
 </table>
 
