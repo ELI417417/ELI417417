@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/ELI417417">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=%F0%9F%91%8B+Hello%2C+I'm+ELI;Machine+Learning+%7C+CV+%7C+LLM+Engineer;20%2B+Projects+%C2%B7+2.5+Years+%C2%B7+All+Original" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=%F0%9F%91%8B+Hello%2C+I'm+ELI;Machine+Learning+%7C+CV+%7C+LLM+Engineer;18+Projects+%C2%B7+2.5+Years+%C2%B7+Building+from+scratch" alt="Typing SVG" />
   </a>
 </div>
 
@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://github.com/ELI417417"><img src="https://img.shields.io/github/followers/ELI417417?label=Follow&style=social" /></a>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ELI417417.ELI417417&color=38bdf8" />
-  <img src="https://img.shields.io/badge/Total_Repos-20-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Total_Repos-18-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Active_Since-2023-green?style=flat-square" />
 </p>
 
@@ -46,7 +46,7 @@ I'm a **machine learning engineer** focused on computer vision, large language m
 
 ### Research & Paper Reproductions
 
-I believe the best way to understand a model is to **implement it line by line**. These are paper reproductions — implementations for learning, with training scripts, tests, and notes:
+I believe the best way to understand a model is to **implement it line by line**. These are learning implementations — paper reproductions for my own education, with training scripts, tests, and notes:
 
 | Paper | Venue | My Implementation |
 |-------|-------|-------------------|
@@ -69,9 +69,9 @@ Learning projects with web UIs and REST APIs built for hands-on practice:
 |---------|-------|------------|
 | [**Realtime Video Analytics**](https://github.com/ELI417417/realtime-video-analytics) | `OpenCV` `Streamlit` `Plotly` | Face detection + motion tracking + live dashboard |
 | [**YOLO Object Detection**](https://github.com/ELI417417/yolo-object-detection) | `YOLOv8` `ONNX` `Flask` | Web app + REST API + drag-and-drop UI |
-| [**MobileNet-SSD Edge**](https://github.com/ELI417417/mobilenet-ssd-deployment) | `MobileNetV2` `ONNX` `PyTorch` | CPU-optimized, latency benchmarks, INT8 quant |
+| [**MobileNet-SSD Study**](https://github.com/ELI417417/mobilenet-ssd-deployment) | `MobileNetV2` `ONNX` `PyTorch` | CPU latency benchmarks, INT8 quantization exploration |
 | [**Stable Diffusion Explorer**](https://github.com/ELI417417/stable-diffusion-explorer) | `Diffusers` `Streamlit` `Plotly` | Cross-attention visualization + prompt interpolation |
-| [**ML Pipeline (MLOps)**](https://github.com/ELI417417/ml-pipeline-mlops) | `MLflow` `DVC` `Hydra` `Optuna` | Experiment tracking, data versioning, auto HP tuning |
+| [**ML Pipeline (MLOps)**](https://github.com/ELI417417/ml-pipeline-mlops) | `MLflow` `DVC` `Hydra` `Optuna` | Experiment tracking, data versioning practice |
 
 ---
 
@@ -107,7 +107,7 @@ Learning projects with web UIs and REST APIs built for hands-on practice:
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ELI417417&color=38bdf8&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Repos-20-38bdf8?style=flat-square" />
+  <img src="https://img.shields.io/badge/Repos-18-38bdf8?style=flat-square" />
   <img src="https://img.shields.io/badge/Commits-300+-38bdf8?style=flat-square" />
   <img src="https://img.shields.io/badge/PRs-0-38bdf8?style=flat-square" />
   <img src="https://img.shields.io/badge/Active_Since-2023-38bdf8?style=flat-square" />
@@ -156,7 +156,7 @@ Learning projects with web UIs and REST APIs built for hands-on practice:
 <table align="center">
 <tr>
 <td align="center">📝<br><b>From Scratch</b><br>8 paper implementations<br>built line by line</td>
-<td align="center">🧪<br><b>Tested</b><br>70+ test suites<br>all passing green ✓</td>
+<td align="center">🧪<br><b>Tested</b><br>65+ test suites<br>all passing green ✓</td>
 <td align="center">🌐<br><b>Interactive</b><br>Streamlit / Flask<br>web demos</td>
 <td align="center">📖<br><b>Documented</b><br>Clean READMEs<br>with quickstart guides</td>
 <td align="center">🔄<br><b>Experiment Tracking</b><br>MLflow + DVC<br>for reproducibility</td>
@@ -166,5 +166,5 @@ Learning projects with web UIs and REST APIs built for hands-on practice:
 <br>
 
 <p align="center">
-  <sub>20 repositories · 2.5 years of consistent work · Last updated: August 2026</sub>
+  <sub>18 repositories · 2.5 years of learning · Last updated: August 2026</sub>
 </p>
