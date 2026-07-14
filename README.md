@@ -23,5 +23,5 @@ I build full-stack web applications, AI/ML models, and efficient systems. Passio
 | [Portfolio Website](https://eli417417.github.io) | HTML + CSS + JS |
 
 ## Contact
-- Email: eli417417@gmail.com
+- Email: zhaoeli79@gmail.com
 - Website: [eli417417.github.io](https://eli417417.github.io)
